@@ -1,0 +1,10 @@
+.clock {
+  display: inline-block;
+  width: 350px;
+  height: 70px;
+  outline: solid 2px black;
+  border-radius: 5px;
+  margin: 0 auto;
+  text-align: center;
+  padding-top: 22px;
+}

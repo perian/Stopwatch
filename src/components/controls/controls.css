@@ -1,0 +1,15 @@
+.controls {
+  display: inline-block;
+  width: 60px;
+  text-align: center;
+  margin-right: 20px;
+}
+
+.button {
+  width: 100%;
+  margin-bottom: 5px;
+}
+
+.button:not(:last-child) {
+  margin-bottom: 5px;
+}
